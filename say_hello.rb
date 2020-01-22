@@ -1,3 +1,3 @@
-def say_hello(Hello Ruby Prgrammer!)
+def say_hello(Ruby Prgrammer!)
  puts "hello, #{name}"
  end
